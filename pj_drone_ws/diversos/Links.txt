@@ -1,0 +1,41 @@
+ROS 
+
+main
+https://www.ros.org/
+
+introduction
+http://wiki.ros.org/ROS/Introduction
+
+
+concepts
+http://wiki.ros.org/ROS/Concepts
+
+
+high-level concepts
+http://wiki.ros.org/ROS/Higher-Level%20Concepts
+
+
+Client libraries
+http://wiki.ros.org/Client%20Libraries
+
+Technical Overview
+http://wiki.ros.org/ROS/Technical%20Overview
+
+
+Gazebo 
+
+main:
+http://gazebosim.org
+
+architecture: 
+http://gazebosim.org/tutorials?tut=architecture&cat=get_started
+
+components:
+http://gazebosim.org/tutorials?tut=components&cat=get_started
+
+WebGUI:
+http://gazebosim.org/gzweb.html
+
+Editors:
+http://gazebosim.org/tutorials?cat=install&tut=model_editor&ver=6%2B
+http://gazebosim.org/tutorials?cat=build_world&tut=building_editor

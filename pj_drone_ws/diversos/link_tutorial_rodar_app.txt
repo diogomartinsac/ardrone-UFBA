@@ -1,0 +1,5 @@
+link exibição do tutorial:
+https://1drv.ms/w/s!Aq7Rd_aXMu5ngw3zQS2_DCwPNhGa
+link edição do tutorial: https://1drv.ms/w/s!Aq7Rd_aXMu5ngw2fMt-8L1BHAyHM
+link para colocar o ros para funcionar no pycharm
+https://1drv.ms/w/s!Aq7Rd_aXMu5ngw2fMt-8L1BHAyHM

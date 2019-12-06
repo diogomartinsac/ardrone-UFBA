@@ -1,0 +1,10 @@
+<launch>
+	<!-- Launches the AR.Drone driver -->
+	
+	
+	<!-- Launches the keyboard controller -->
+	<node name="testesdiversos" pkg="drone_custom" type="no_control_visao_camera_baixo.py" required="true" />
+	<!-- <node name="testesdiversos" pkg="drone_custom" type="topico_control_visao_camera_frontal.py" required="true" /> -->
+	<!-- <node name="testesdiversos" pkg="drone_custom" type="controle_visao_drone.py" required="true" /> -->
+	<!-- <node name="testesdiversos" pkg="drone_custom" type="testeHachet.py" required="true"/> -->
+</launch>

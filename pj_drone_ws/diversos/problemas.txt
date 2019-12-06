@@ -1,0 +1,13 @@
+1°) Identificar faixa;
+
+2°) Reconhecer sensores e distinguir cor (verde / vermelho);
+
+3°) sair da faixa e encontrar "pista de pouso"
+
+4°) Ações comandadas pelo computador, responsáveis pelas ações do drone em cada etapa da missão;
+
+5°) A comunicação deve ser realizada entre o drone e o módulo de software é realizado por via de rede sem fio;
+
+6°) A missão "pode" ser acompanhada de um cenário virtual, emulando o cenário real, a partir de stream de vídeo enviado pelo drone;
+
+7°) Por segurança o software deve permitir que a QUALQUER momento um operador humano interfira em sua execução;
